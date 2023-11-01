@@ -7,11 +7,11 @@
   - [Топ](#топ)
     - [The Rational Male. Rollo Tomassi](#the-rational-male-rollo-tomassi)
     - [“How To Be A 3% Man. Corey Wayne](#how-to-be-a-3-man-corey-wayne)
+    - [На пенсию в 35 лет. Анар Бабаев](#на-пенсию-в-35-лет-анар-бабаев)
   - [Отличные](#отличные)
     - [2023](#2023)
       - [Clean Architecture. Robert C. Martin](#clean-architecture-robert-c-martin)
     - [2022](#2022)
-      - [На пенсию в 35 лет. Анар Бабаев](#на-пенсию-в-35-лет-анар-бабаев)
       - [Фак Ю Мани. Анар Бабаев](#фак-ю-мани-анар-бабаев)
       - [The 48 Laws of Power. Robert Greene](#the-48-laws-of-power-robert-greene)
       - [Принципы юнит-тестирования. Владимир Хориков](#принципы-юнит-тестирования-владимир-хориков)
@@ -20,6 +20,7 @@
       - [Хулиномика. Алексей Марков](#хулиномика-алексей-марков)
       - [Лягушка, слон и брокколи. Алексей Марков](#лягушка-слон-и-брокколи-алексей-марков)
       - [The Richest Man in Babylon. George S. Clason](#the-richest-man-in-babylon-george-s-clason)
+      - [Непослушное дитя биосферы. Виктор Дольник](#непослушное-дитя-биосферы-виктор-дольник)
     - [2022](#2022-1)
       - [The Obstacle Is the Way. Ryan Holiday](#the-obstacle-is-the-way-ryan-holiday)
     - [2019](#2019)
@@ -35,6 +36,10 @@
 
 [↑ Amazon](https://www.amazon.com/Winning-Heart-Woman-Your-Dreams-ebook/dp/B004QOBAPK). [↑ YouTube](https://www.youtube.com/channel/UCQTAVxA4dNBCoPdHhX9nnoQ).
 
+### На пенсию в 35 лет. Анар Бабаев
+
+[↑ Литрес](https://www.litres.ru/book/babaykin/na-pensiu-v-35-let-55699732). [↑ YouTube](https://www.youtube.com/@pensiya35).
+
 ## Отличные
 
 ### 2023
@@ -44,10 +49,6 @@
 [↑ Amazon](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164). [↑ YouTube](https://www.youtube.com/results?search_query=robert+c+martin).
 
 ### 2022
-
-#### На пенсию в 35 лет. Анар Бабаев
-
-[↑ Литрес](https://www.litres.ru/book/babaykin/na-pensiu-v-35-let-55699732).
 
 #### Фак Ю Мани. Анар Бабаев
 
@@ -59,7 +60,7 @@
 
 #### Принципы юнит-тестирования. Владимир Хориков
 
-[↑ Ozon](https://www.ozon.ru/product/printsipy-yunit-testirovaniya-horikov-vladimir-211424826).
+[↑ Ozon](https://www.ozon.ru/product/printsipy-yunit-testirovaniya-horikov-vladimir-211424826). [↑ YouTube](https://www.youtube.com/results?search_query=Владимир+Хориков).
 
 ## Пойдет
 
@@ -77,6 +78,10 @@
 
 [↑ Amazon](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111).
 
+#### Непослушное дитя биосферы. Виктор Дольник
+
+[↑ Литрес аудиокнига](https://www.litres.ru/audiobook/v-r-dolnik/neposlushnoe-ditya-biosfery-chast-1-23008874/) [↑ Критика](https://ru.wikipedia.org/wiki/Непослушное_дитя_биосферы#Критика_книги).
+
 ### 2022
 
 #### The Obstacle Is the Way. Ryan Holiday
@@ -87,4 +92,4 @@
 
 #### 12 Rules for Life. Jordan Peterson
 
-[↑ Amazon](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021).
+[↑ Amazon](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021). [↑ YouTube](https://www.youtube.com/@JordanBPeterson).
