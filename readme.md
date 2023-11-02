@@ -6,10 +6,11 @@
   - [Содержание](#содержание)
   - [Топ](#топ)
     - [The Rational Male. Rollo Tomassi](#the-rational-male-rollo-tomassi)
-    - [“How To Be A 3% Man. Corey Wayne](#how-to-be-a-3-man-corey-wayne)
+    - [How To Be A 3% Man. Corey Wayne](#how-to-be-a-3-man-corey-wayne)
     - [На пенсию в 35 лет. Анар Бабаев](#на-пенсию-в-35-лет-анар-бабаев)
   - [Отличные](#отличные)
     - [2023](#2023)
+      - [Bachelor Pad Economics. Aaron Clarey](#bachelor-pad-economics-aaron-clarey)
       - [Clean Architecture. Robert C. Martin](#clean-architecture-robert-c-martin)
     - [2022](#2022)
       - [Фак Ю Мани. Анар Бабаев](#фак-ю-мани-анар-бабаев)
@@ -32,7 +33,7 @@
 
 [↑ Amazon](https://www.amazon.com/Rational-Male-Rollo-Tomassi/dp/1492777862). [↑ YouTube](https://www.youtube.com/@RolloTomassi).
 
-### “How To Be A 3% Man. Corey Wayne
+### How To Be A 3% Man. Corey Wayne
 
 [↑ Amazon](https://www.amazon.com/Winning-Heart-Woman-Your-Dreams-ebook/dp/B004QOBAPK). [↑ YouTube](https://www.youtube.com/channel/UCQTAVxA4dNBCoPdHhX9nnoQ).
 
@@ -43,6 +44,10 @@
 ## Отличные
 
 ### 2023
+
+#### Bachelor Pad Economics. Aaron Clarey
+
+[↑ Amazon](https://www.amazon.com/Bachelor-Pad-Economics-Financial-Advice/dp/1494463180). [↑ YouTube](https://www.youtube.com/@AaronClarey).
 
 #### Clean Architecture. Robert C. Martin
 
@@ -80,7 +85,7 @@
 
 #### Непослушное дитя биосферы. Виктор Дольник
 
-[↑ Литрес аудиокнига](https://www.litres.ru/audiobook/v-r-dolnik/neposlushnoe-ditya-biosfery-chast-1-23008874/) [↑ Критика](https://ru.wikipedia.org/wiki/Непослушное_дитя_биосферы#Критика_книги).
+[↑ Литрес](https://www.litres.ru/audiobook/v-r-dolnik/neposlushnoe-ditya-biosfery-chast-1-23008874/). [↑ Критика](https://ru.wikipedia.org/wiki/Непослушное_дитя_биосферы#Критика_книги).
 
 ### 2022
 
