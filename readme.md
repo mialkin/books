@@ -6,8 +6,9 @@
   - [Содержание](#содержание)
   - [Топ](#топ)
     - [The Rational Male. Rollo Tomassi](#the-rational-male-rollo-tomassi)
-    - [На пенсию в 35 лет. Анар Бабаев](#на-пенсию-в-35-лет-анар-бабаев)
     - [How To Be A 3% Man. Corey Wayne](#how-to-be-a-3-man-corey-wayne)
+    - [На пенсию в 35 лет. Анар Бабаев](#на-пенсию-в-35-лет-анар-бабаев)
+    - [The Total Money Makeover. Dave Ramsey](#the-total-money-makeover-dave-ramsey)
   - [Отличные](#отличные)
     - [2023](#2023)
       - [Bachelor Pad Economics. Aaron Clarey](#bachelor-pad-economics-aaron-clarey)
@@ -33,13 +34,17 @@
 
 [↑ Amazon](https://www.amazon.com/Rational-Male-Rollo-Tomassi/dp/1492777862). [↑ YouTube](https://www.youtube.com/@RolloTomassi).
 
+### How To Be A 3% Man. Corey Wayne
+
+[↑ Amazon](https://www.amazon.com/Winning-Heart-Woman-Your-Dreams-ebook/dp/B004QOBAPK). [↑ YouTube](https://www.youtube.com/channel/UCQTAVxA4dNBCoPdHhX9nnoQ).
+
 ### На пенсию в 35 лет. Анар Бабаев
 
 [↑ Литрес](https://www.litres.ru/book/babaykin/na-pensiu-v-35-let-55699732). [↑ YouTube](https://www.youtube.com/@pensiya35).
 
-### How To Be A 3% Man. Corey Wayne
+### The Total Money Makeover. Dave Ramsey
 
-[↑ Amazon](https://www.amazon.com/Winning-Heart-Woman-Your-Dreams-ebook/dp/B004QOBAPK). [↑ YouTube](https://www.youtube.com/channel/UCQTAVxA4dNBCoPdHhX9nnoQ).
+[↑ Amazon](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277). [↑ YouTube](https://www.youtube.com/@TheRamseyShowEpisodes).
 
 ## Отличные
 
