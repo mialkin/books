@@ -78,7 +78,7 @@
 
 #### Пиши, сокращай. Максим Ильяхов
 
-[↑ Ozon](https://www.ozon.ru/product/pishi-sokrashchay-kak-sozdavat-silnyy-tekst-knigi-pro-marketing-i-kopirayting-maksim-ilyahov-241182327).
+[↑ Ozon](https://www.ozon.ru/product/pishi-sokrashchay-kak-sozdavat-silnyy-tekst-knigi-pro-marketing-i-kopirayting-maksim-ilyahov-241182327). [↑ YouTube](https://www.youtube.com/@maxim.ilyahov).
 
 ## Пойдет
 
