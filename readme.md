@@ -17,6 +17,8 @@
       - [Фак Ю Мани. Анар Бабаев](#фак-ю-мани-анар-бабаев)
       - [The 48 Laws of Power. Robert Greene](#the-48-laws-of-power-robert-greene)
       - [Принципы юнит-тестирования. Владимир Хориков](#принципы-юнит-тестирования-владимир-хориков)
+    - [2019](#2019)
+      - [Пиши, сокращай. Максим Ильяхов](#пиши-сокращай-максим-ильяхов)
   - [Пойдет](#пойдет)
     - [2023](#2023-1)
       - [Хулиномика. Алексей Марков](#хулиномика-алексей-марков)
@@ -25,7 +27,7 @@
       - [Непослушное дитя биосферы. Виктор Дольник](#непослушное-дитя-биосферы-виктор-дольник)
     - [2022](#2022-1)
       - [The Obstacle Is the Way. Ryan Holiday](#the-obstacle-is-the-way-ryan-holiday)
-    - [2019](#2019)
+    - [2019](#2019-1)
       - [12 Rules for Life. Jordan Peterson](#12-rules-for-life-jordan-peterson)
 
 ## Топ
@@ -71,6 +73,12 @@
 #### Принципы юнит-тестирования. Владимир Хориков
 
 [↑ Ozon](https://www.ozon.ru/product/printsipy-yunit-testirovaniya-horikov-vladimir-211424826). [↑ YouTube](https://www.youtube.com/results?search_query=Владимир+Хориков).
+
+### 2019
+
+#### Пиши, сокращай. Максим Ильяхов
+
+[↑ Ozon](https://www.ozon.ru/product/pishi-sokrashchay-kak-sozdavat-silnyy-tekst-knigi-pro-marketing-i-kopirayting-maksim-ilyahov-241182327).
 
 ## Пойдет
 
